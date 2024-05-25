@@ -1,0 +1,14 @@
+body{
+    background-image: url(../../public/images/person-front-computer-working-html.jpg);
+    background-size: cover;
+   height: 100vh;
+   overflow-y: hidden;
+   overflow-x: hidden;
+}
+.shade{
+    background-color: rgba(0, 0, 0, 0.746);
+    height: 110vh;
+    width: 100vw;
+  
+    background-size: cover;
+}
